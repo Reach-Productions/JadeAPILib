@@ -13,6 +13,7 @@ this will teach you how to use this library so no need to worry too much
 - discord.py installed on your envinronment - with dependencies
 - JadeLib installed - with dependencies
 - ffmpeg installed (optional)
+- A Jade Developer ID
 
 # how to use
 view the example folder for a full explainations
